@@ -1,4 +1,4 @@
-<h1 align="center">PRACONIA REPO</h1>
+<h1 align="center">PRACOWNIA REPO</h1>
 <h1 align="center">WELCOME TO BUGI WORLD</h1>
 
 
