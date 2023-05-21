@@ -4,8 +4,6 @@
     <p><b>Dawid Konopiaty | OFFICIAL ACCOUNT</b></p>
   </a>
 </h1> 
-<br>
-OFFICIAL ACCOUNT <--CHECK OUT
 
 <h3 align="center">IT IS NOT OFFICIAL ACCOUNT <B>|</B> ONLY FOR MY SCHOOL PROJECT</h3>
 
