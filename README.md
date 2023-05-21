@@ -5,5 +5,5 @@
   </a>
 </h1> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkspine433&show_icons=true&locale=en&layout=compact" alt="darkspine433" /></p>
+<p><img  width="360" height="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkspine433&show_icons=true&locale=en&layout=compact" alt="darkspine433" /></p>
 
