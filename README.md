@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
 <h2  color="red !important"><a href="https://github.com/DarkSpine433" target="blank">OFFICIAL ACCOUNT</a> <--CHECK OUT</h2>
- <br><br>
+
  <h3 align="center">IT IS NOT OFFICIAL ACCOUNT <B>|</B> ONLY FOR MY SCHOOL PROJECT</h3>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pracowniarepo&show_icons=true&locale=en&layout=compact" alt="pracowniarepo" /></p>
