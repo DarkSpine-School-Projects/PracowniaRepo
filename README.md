@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
-<h3 align="center">NOT OFFICIAL ACCOUNT</h3>
-<h3 align="center">ONLY FOR MY SCHOOL PROJECT</h3>
-
+<h3 align="center">IT IS NOT OFFICIAL ACCOUNT <B>|</B> ONLY FOR MY SCHOOL PROJECT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pracowniarepo&label=Profile%20views&color=0e75b6&style=flat" alt="pracowniarepo" /> </p>
 
