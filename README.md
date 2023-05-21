@@ -5,5 +5,5 @@
   </a>
 </h1> 
 
-<img  align="center" width="400" height="260" src="https://github-readme-stats.vercel.app/api/top-langs?username=pracowniarepo&show_icons=true&locale=en&layout=compact" alt="pracowniarepo" />
+<img  align="center" width="390" height="260" src="https://github-readme-stats.vercel.app/api/top-langs?username=pracowniarepo&show_icons=true&locale=en&layout=compact" alt="pracowniarepo" />
 
